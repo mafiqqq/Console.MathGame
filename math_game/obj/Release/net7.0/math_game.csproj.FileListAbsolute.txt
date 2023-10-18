@@ -1,0 +1,15 @@
+D:\Sandbox\CSharp\math_game\math_game\bin\Release\net7.0\math_game.exe
+D:\Sandbox\CSharp\math_game\math_game\bin\Release\net7.0\math_game.deps.json
+D:\Sandbox\CSharp\math_game\math_game\bin\Release\net7.0\math_game.runtimeconfig.json
+D:\Sandbox\CSharp\math_game\math_game\bin\Release\net7.0\math_game.dll
+D:\Sandbox\CSharp\math_game\math_game\bin\Release\net7.0\math_game.pdb
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\math_game.csproj.AssemblyReference.cache
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\math_game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\math_game.AssemblyInfoInputs.cache
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\math_game.AssemblyInfo.cs
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\math_game.csproj.CoreCompileInputs.cache
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\math_game.dll
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\refint\math_game.dll
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\math_game.pdb
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\math_game.genruntimeconfig.cache
+D:\Sandbox\CSharp\math_game\math_game\obj\Release\net7.0\ref\math_game.dll

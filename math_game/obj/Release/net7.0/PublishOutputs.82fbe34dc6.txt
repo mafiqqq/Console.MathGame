@@ -1,0 +1,5 @@
+D:\Sandbox\CSharp\math_game\math_game.exe
+D:\Sandbox\CSharp\math_game\math_game.dll
+D:\Sandbox\CSharp\math_game\math_game.deps.json
+D:\Sandbox\CSharp\math_game\math_game.runtimeconfig.json
+D:\Sandbox\CSharp\math_game\math_game.pdb
