@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-namespace mafiqqq.MathGame
+﻿namespace mafiqqq.MathGame
 {
     public class MathGameLogic
     {
